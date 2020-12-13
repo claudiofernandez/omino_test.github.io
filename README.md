@@ -1,1 +1,2 @@
-# omino_test.github.io
+# OminoWebsite
+indie blog
